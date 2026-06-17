@@ -39,23 +39,6 @@ fake-news-api/
 │── README.md
 ```
 
-## Installation
-
-```bash
-git clone https://github.com/your-username/fake-news-api.git
-cd fake-news-api
-
-# Create virtual environment
-python -m venv env
-
-# Activate environment
-env\Scripts\activate      # Windows
-source env/bin/activate   # Linux/Mac
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ## Run the API
 
 ```bash
